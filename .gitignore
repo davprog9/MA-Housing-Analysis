@@ -1,0 +1,5 @@
+Data/*.csv
+Data/*.tsv*
+
+Data/city_market_tracker.tsv000
+Data/slim_massachusetts_market_data.csv
