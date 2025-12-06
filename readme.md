@@ -128,7 +128,7 @@ The short answer is yes. We can definitely classify cities with safe or unsafe l
 | Crimes Against Property  | -2.261479e-13      |
 
 
-![Predicted and actual class distributions](Pictures/prediction_test_distribution.png2)
+![Predicted and actual class distributions](Pictures/prediction_test_distribution2.png)
 
 ---
 
